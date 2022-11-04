@@ -44,18 +44,3 @@ li {
   padding-bottom: 1.5rem;
   font-size: larger;
 }
-
-table {
-  margin-top: 3rem;
-  width: 90%;
-}
-table,
-th,
-td {
-  border: 1px solid rgb(44, 67, 108);
-  padding: 1rem;
-}
-th {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-}

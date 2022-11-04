@@ -1,0 +1,49 @@
+table {
+  margin-top: 3rem;
+  width: 75%;
+  background-color: rgb(204, 204, 255, 0.7);
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid rgb(44, 67, 108);
+  padding: 1rem;
+}
+th {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+.first-s {
+  background-color: rgb(253, 193, 221, 0.7);
+}
+.seconde-s {
+  background-color: rgb(171, 214, 255, 0.7);
+}
+img {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin: 0.5rem;
+  box-shadow: none;
+  border-radius: none;
+}
+.school {
+  width: 15%;
+}
+.class-name {
+  width: 5%;
+}
+.teacher {
+  width: 10%;
+}
+.rating {
+  width: 10%;
+}
+.comments {
+  width: 10%;
+}
+.total-rating {
+  text-align: left;
+  font-weight: 550;
+}
