@@ -20,4 +20,6 @@ body {
 }
 .error-actions .btn {
   margin-right: 10px;
+  background-color: rgb(132, 201, 67);
+  border: none;
 }
